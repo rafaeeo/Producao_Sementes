@@ -67,3 +67,7 @@ Você pode baixar o arquivo `README.md` clicando [aqui](sandbox:/mnt/data/README
 
 Seguindo esses passos, você conseguirá resolver o problema de push e atualizar o repositório no GitHub com o novo `README.md`.
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+## Referências
+
+Dataset: https://dados.agricultura.gov.br/pt_BR/dataset/dados-referentes-ao-controle-da-producao-de-sementes-sigef
