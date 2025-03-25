@@ -38,15 +38,20 @@ Este projeto é um dashboard interativo desenvolvido com Streamlit e Plotly para
 ## Estrutura do Projeto
 
 dashboard.py: Código principal do dashboard.
+
 sigefcamposproducaodesementes.xlsx: Arquivo de dados utilizado no dashboard.
+
 requirements.txt: Lista de dependências do projeto.
-Filtros Disponíveis
+
+## Filtros Disponíveis
+
 Categoria: Filtre os dados por diferentes categorias de sementes.
 Espécie: Filtre os dados por espécies específicas de sementes.
 Safra: Filtre os dados por anos de safra.
 Estado (UF): Filtre os dados por estados brasileiros.
 Cidade: Filtre os dados por cidades específicas.
-Gráficos Disponíveis
+
+## Gráficos Disponíveis
 Sazonalidade das Colheitas: Exibe a quantidade de colheitas por mês.
 Tendência da Produção Agrícola ao Longo dos Anos: Exibe a produção bruta ao longo dos anos de safra.
 Impacto da Categoria na Produtividade Média: Exibe a produtividade média por categoria.
