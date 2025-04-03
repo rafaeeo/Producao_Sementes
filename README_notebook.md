@@ -57,26 +57,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-
-### Passos Adicionais
-
-1. **Criar o arquivo `requirements.txt`**:
-   - Gere um arquivo `requirements.txt` com as dependências do projeto:
-     ```bash
-     pip freeze > requirements.txt
-     ```
-
-2. **Adicionar o `README.md` ao repositório**:
-   - Adicione o arquivo `README.md` ao seu repositório local:
-     ```bash
-     git add README.md
-     git commit -m "Add README.md for Analises.ipynb"
-     git push origin main
-     ```
-
-3. **Adicionar o arquivo de licença (opcional)**:
-   - Se desejar, adicione um arquivo de licença, como `LICENSE`, ao seu repositório.
-
-Seguindo esses passos, você terá um `README.md` completo e informativo para o seu notebook  no GitHub.
-
